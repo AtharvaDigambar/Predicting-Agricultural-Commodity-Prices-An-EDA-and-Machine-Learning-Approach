@@ -11,9 +11,8 @@ This project performs an **Exploratory Data Analysis (EDA)** and builds a **mach
 
 **Objective**: Empower farmers, traders, and policymakers with data-driven price forecasts.
 
-**Developed by**: [Your Name]  
-**Date**: April 02, 2025  
-**Powered by**: xAI's Grok 3
+**Developed by**: Atharva A Digambar 
+
 
 ---
 
